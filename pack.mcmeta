@@ -1,0 +1,7 @@
+{
+    "pack": {
+        "pack_format": 1,
+		"supported_formats": [1, 99999999],
+        "description": "Adds an exclamation mark to powdered snow."
+    }
+}
